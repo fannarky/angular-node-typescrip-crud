@@ -12,6 +12,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/cors": "^2.8.5",
+    "@types/morgan": "^1.7.35",
     "cors": "^2.8.5",
     "express": "^4.17.0",
     "morgan": "^1.9.1",
